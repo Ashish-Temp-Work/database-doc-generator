@@ -1,0 +1,1 @@
+A minimal fully-buildable Spring Boot 3.2 project with Thymeleaf UI stubs and multi-DB JDBC support has been zipped.
